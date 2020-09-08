@@ -6,7 +6,7 @@
 
  date    : 2020/09/07 
 
- update :
+ update : 2020/09/08
 
 ***
 
@@ -24,7 +24,7 @@ https://wasm-cms-type5-kuc.netlify.app
 ***
 ### more
 
-https://note.com/knaka0209/n/nb8fbc9b2a686#SSzEa
+https://note.com/knaka0209/n/nb8fbc9b2a686
 
 ***
 
